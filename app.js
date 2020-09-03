@@ -20,3 +20,13 @@ var firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 var database = firebase.database();
+const firebaseConfig = {
+  apiKey: "AIzaSyCz9T0EwIFWrG7nbCEKEu-XIJyicmMV83I",
+  authDomain: "itsgokuscam.firebaseapp.com",
+  databaseURL: "https://itsgokuscam.firebaseio.com",
+  projectId: "itsgokuscam",
+  storageBucket: "itsgokuscam.appspot.com",
+  messagingSenderId: "594994115560",
+  appId: "1:594994115560:web:ca12dbe33094f90985aa5d",
+  measurementId: "G-0LH7SB87JT"
+};
